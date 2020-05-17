@@ -19,14 +19,15 @@ Para realizar este Projeto de testes foi utilizado o Projeto Be The Hero, segue 
 
 Para rodar os testes será necessário baixar o projeto Be The Hero.
 	
-	Baixar o projeto (não necessariamente precisa fazer o clone, pode baixar o zip).
-	Após baixar o projeto, extrair do Zip para um local, por exemplo "C:\PROJETO-AUTOMACAO".
-	Após extrair, notará que existe 3 pastas: "BackEnd, FrontEnd e Mobile". Como o intuito do estudo é realizar os testes no ambiente web, a pasta "Mobile" poderá ser apagada.
-	Com o CMD (Administrador), ou outro emuladores de console no Windows, navegar até a pasta BackEnd e digitar os seguintes comandos:
+1 - Baixar o projeto (não necessariamente precisa fazer o clone, pode baixar o zip).
+2 - Após baixar o projeto, extrair do Zip para um local, por exemplo "C:\PROJETO-AUTOMACAO".
+3 - Após extrair, notará que existe 3 pastas: "BackEnd, FrontEnd e Mobile". Como o intuito do estudo é realizar os testes no ambiente web, a pasta "Mobile" poderá ser apagada.
+4 - Com o CMD (Administrador), ou outro emuladores de console no Windows, navegar até a pasta BackEnd e digitar os seguintes comandos:
 	- Dentro da pasta BackEnd digitar o comando "npm install"
 	- Após o primeiro comando ter terminado, executar "npm start" 
-	Abrir um novo CMD (Administrador), e navegar até a pasta FrontEnd e digitar os seguintes comandos:
+5 - Abrir um novo CMD (Administrador), e navegar até a pasta FrontEnd e digitar os seguintes comandos:
 	- Dentro da pasta BackEnd digitar o comando "npm install"
 	- Após o primeiro comando ter terminado, executar "npm start" 
-	Depois que os comandos foram exutados o Projeto Be The Hero será iniciado localmente no navegador.
-	O Projeto Be The Hero, já está pronto para realizar os testes. 
+6 - Depois que os comandos foram exutados o Projeto Be The Hero será iniciado localmente no navegador.
+
+O Projeto Be The Hero, já está pronto para realizar os testes. 
