@@ -14,7 +14,7 @@ Para realizar este Projeto de testes foi utilizado o Projeto Be The Hero, segue 
 
 	O Be The Hero é um projeto voltado para conectar ONGS.
 	Foi desenvolvido durante a Semana OmniStack 11.0, um evento da @Rocketsea.
-	Utilizei o Projeto Be The Hero, neste repositório do github: "EliasMelo1/be-te-hero".
+	Utilizei o Projeto Be The Hero, neste repositório do github: "ialexanderbrito/be-the-hero".
 
 
 Para rodar os testes será necessário baixar o projeto Be The Hero.
