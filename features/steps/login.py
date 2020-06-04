@@ -14,7 +14,7 @@ def verificar_titulo(context):
 
 #Cenario 2
 @when(u'o fundador tenta entrar sem informar o Id')
-def clickBottonEntrar(context):
+def clickBtnEntrar(context):
     btn_Entrar = context.browser.find_element_by_class_name("button")
     btn_Entrar.click()
 
@@ -28,7 +28,7 @@ def verificarAlerta_Login(context):
     msmAlert.accept()
 
 #Cenario 3
-@then(u'informa o Id "151617"')
+@given(u'que informa o Id "151617"')
 def id_Invalido(context):
     idText = context.browser.find_element_by_xpath("//input[@value='']")
     idText.send_keys("151617")
