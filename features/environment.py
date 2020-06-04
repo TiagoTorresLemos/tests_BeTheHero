@@ -8,6 +8,7 @@ def before_all(context):
 
 def after_step(context, step):
     context.browser.implicitly_wait(5)
+    print()
     #sleep(2.5)
 
 
