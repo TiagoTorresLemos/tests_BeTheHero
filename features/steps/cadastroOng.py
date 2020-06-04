@@ -55,7 +55,7 @@ def acessaCadastroOng(context):
     registrar.click()
 
 
-@when(u'o fundador preenche os campos')
+@when(u'o fundador cadastra uma ONG preenchendo os campos')
 def preencheFormulario(context):
     nomeOng = context.browser.find_element_by_xpath("//input[@value='']")
     nomeOng.send_keys("Curando Vidas")

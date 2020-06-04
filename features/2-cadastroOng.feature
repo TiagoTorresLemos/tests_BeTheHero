@@ -1,4 +1,5 @@
 # language: pt
+@cadastroOng
 
   Funcionalidade: Cadastro ONG
     Eu enquanto Fundador,
@@ -23,5 +24,5 @@
 
     Cenário: Cadastrar uma ONG com sucesso
     	Dado que o fundador está acessando a tela de Cadastro de ONGs
-    	Quando o fundador preenche os campos
+    	Quando o fundador cadastra uma ONG preenchendo os campos
     	Então o fundador visualiza a mensagem que informa seu Id

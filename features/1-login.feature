@@ -1,4 +1,5 @@
 # language: pt
+@login
 
 	Funcionalidade: Log in
 		Eu enquanto Fundador,
