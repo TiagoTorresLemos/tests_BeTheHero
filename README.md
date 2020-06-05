@@ -1,5 +1,5 @@
 # tests_BeTheHero
-Projeto de testes com intuito de aprendizado.
+Projeto de testes com intuito de aprendizado usando Behave, Python e Selenium WebDriver.
 
 Este Projeto de testes é apenas para fim de estudo e aprendizado, segue as configurações:
 
